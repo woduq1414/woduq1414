@@ -1,7 +1,7 @@
 ### 안녕하세요!
 
 프로그래밍을 배우고 싶은 학생입니다.
-
+파이썬에 관심이 약간 많아요.
 
 <!--
 **woduq1414/woduq1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
