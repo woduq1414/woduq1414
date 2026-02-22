@@ -14,8 +14,4 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woduq1414&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woduq1414)](https://solved.ac/woduq1414/)
