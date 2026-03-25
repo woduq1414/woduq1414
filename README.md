@@ -2,6 +2,7 @@
 
 인공지능에 관심을 갖고 공부하고 있습니다.
 
+[LinkedIn](https://www.linkedin.com/in/hin4/)
 
 
 ---
@@ -13,6 +14,5 @@
 >소프트웨어 마에스트로 16기 수료 및 우수자 선정
 
 ---
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woduq1414)](https://solved.ac/woduq1414/)
