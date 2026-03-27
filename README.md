@@ -4,6 +4,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/hin4/)
 
+[Tistory](https://woduq1414.tistory.com/)
+
 
 ---
 
